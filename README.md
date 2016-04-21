@@ -1,1 +1,1 @@
-ooniversity_django_courses_03
+Project for python/django courses 
